@@ -1,0 +1,44 @@
+﻿body,p,ul,li,button,input {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #ffffff;
+}
+
+ul{
+    list-style:none;
+}
+
+i{
+    font-style:normal;
+}
+
+.u-content {
+    width:auto;
+    margin:auto;
+}
+
+.ucenter-column{
+
+}
+
+.ucenter-column .ucenter-column-block li{
+        float: left;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        width: 100%;
+        line-height: 1.2em;
+        font-size: 16px;
+        text-align: center;
+    }
+
+.u-content .ucenter-column .ucenter-column-block li:hover, .u-content .ucenter-column .ucenter-column-block li.active{
+    background:#f1f1f1;
+    border-radius:2px;
+}
+
+.ucenter-column-block li a{
+    color:#101213;
+}
