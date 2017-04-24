@@ -130,6 +130,7 @@
     <Content Include="App_Data\myBLOG_log.ldf">
       <DependentUpon>myBLOG.mdf</DependentUpon>
     </Content>
+    <Content Include="Essay\BlogIndex.aspx" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
@@ -187,6 +188,13 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Sqldata.cs" />
+    <Compile Include="Essay\BlogIndex.aspx.cs">
+      <DependentUpon>BlogIndex.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Essay\BlogIndex.aspx.designer.cs">
+      <DependentUpon>BlogIndex.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

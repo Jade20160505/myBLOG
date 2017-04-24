@@ -5,7 +5,7 @@
     <div class="u-content">
         <div class="ucenter-column">
             <ul class="ucenter-column-block">
-                <li><a href="Essay/essay.aspx"><i class="icon-essay">推荐文章</i></a></li>
+                <li><a href="Essay/BlogIndex.aspx"><i class="icon-essay">推荐文章</i></a></li>
                 <li><a href="#"><i class="icon-book">推荐书籍</i></a></li>
                 <li><a href="#"><i class="icon-music">推荐音乐</i></a></li>
                 <li><a href="#"><i class="icon-myPlace">我的地盘</i></a></li>
