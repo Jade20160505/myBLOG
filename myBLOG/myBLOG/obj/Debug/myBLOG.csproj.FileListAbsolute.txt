@@ -59,7 +59,6 @@ G:\GIT\myBLOG\myBLOG\myBLOG\bin\Microsoft.AI.WindowsServer.xml
 G:\GIT\myBLOG\myBLOG\myBLOG\bin\Microsoft.AI.Web.xml
 G:\GIT\myBLOG\myBLOG\myBLOG\bin\zh-Hans\System.Web.Optimization.resources.dll
 G:\GIT\myBLOG\myBLOG\myBLOG\bin\zh-Hans\Microsoft.AspNet.FriendlyUrls.resources.dll
-G:\GIT\myBLOG\myBLOG\myBLOG\obj\Debug\myBLOG.csprojResolveAssemblyReference.cache
 G:\GIT\myBLOG\myBLOG\myBLOG\obj\Debug\myBLOG.dll
 G:\GIT\myBLOG\myBLOG\myBLOG\obj\Debug\myBLOG.pdb
 F:\GIT\myBLOG\myBLOG\myBLOG\myBLOG\bin\ApplicationInsights.config
